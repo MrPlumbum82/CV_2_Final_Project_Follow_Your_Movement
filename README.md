@@ -7,7 +7,4 @@ Find the google-colab link here: https://colab.research.google.com/drive/1paOxby
 
 Contributors:
 ### Team Members:
-#### Chandrika Yarlagadda
-#### Divya Navuluri
-#### Sadan Mallhi
-#### Sandhya Somasundaram
+Chandrika Yarlagadda, Divya Navuluri, Sadan Mallhi, Sandhya Somasundaram
